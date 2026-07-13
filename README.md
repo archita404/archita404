@@ -35,9 +35,7 @@ Currently diving deep into **Cloud Computing ☁️** and **Full‑Stack Develop
 ## 📈 Activity Graph
 [![Archita's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=archita404&theme=radical)](https://github.com/archita404/github-readme-activity-graph)
 
----
-## 🐍 Contribution Snake
-![snake gif](https://github.com/archita404/archita404/blob/output/github-contribution-grid-snake.svg)
+
 
 
 [![](https://komarev.com/ghpvc/?username=archita404&icon=3&color=13)](https://visitcount.itsvg.in)
