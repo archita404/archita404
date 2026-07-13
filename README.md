@@ -1,7 +1,12 @@
-![Header](https://media1.tenor.com/m/satC_iXTpfYAAAAd/kikis-delivery-service-nature.gif)
+
 
 # 💫 About Me:
-Hey there, myself Archita Singha.<br>I'm currently learning Software development.<br>
+![Header](https://media1.tenor.com/m/satC_iXTpfYAAAAd/kikis-delivery-service-nature.gif)
+Hey there! I'm **Archita Singha**, a passionate learner exploring the world of **Software Development**.  
+I love building creative projects that blend **design and logic**.  
+Currently diving deep into **Cloud Computing ☁️** and **Full‑Stack Development ⚙️**.  
+
+---<br>
 
 
 ## 🌐 Socials:
