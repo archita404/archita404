@@ -23,18 +23,3 @@ Currently diving deep into **Cloud Computing ☁️** and **Full‑Stack Develop
 ![](https://github-profile-trophy.vercel.app/?username=archita404&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=archita404&limit=5&theme=radical&combine_all_yearly_contributions=true)
-
----
-[![](https://komarev.com/ghpvc/?username=archita404&icon=3&color=13)](https://visitcount.itsvg.in)
-
-
-## 📈 Activity Graph
-[![Archita's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=archita404&theme=radical)](https://github.com/archita404/github-readme-activity-graph)
-
-
-
-
-[![](https://komarev.com/ghpvc/?username=archita404&icon=3&color=13)](https://visitcount.itsvg.in)
-
