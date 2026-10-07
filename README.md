@@ -1,5 +1,3 @@
-
-
 #💫 About Me:
 ![Header](https://media1.tenor.com/m/satC_iXTpfYAAAAd/kikis-delivery-service-nature.gif)
 Hey there! I'm **Archita Singha**, a passionate learner exploring the world of **Tech**.  
